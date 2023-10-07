@@ -1,5 +1,6 @@
 package com.example.dictionaryrb.feature_dictionary.data.remote
 
+import com.example.dictionaryrb.feature_dictionary.data.remote.dto.WordInfoDto
 import retrofit2.http.GET
 import retrofit2.http.Path
 
